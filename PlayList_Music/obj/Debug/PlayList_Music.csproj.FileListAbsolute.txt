@@ -1,0 +1,15 @@
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\bin\Debug\PlayList_Music.exe.config
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\bin\Debug\PlayList_Music.exe
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\bin\Debug\PlayList_Music.pdb
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.csprojAssemblyReference.cache
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.csproj.ResolveComReference.cache
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.Form1.resources
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.Properties.Resources.resources
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.csproj.GenerateResource.cache
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.csproj.CoreCompileInputs.cache
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.exe
+C:\Users\arlet\Desktop\Progrmación III\PlayList_Music\PlayList_Music\obj\Debug\PlayList_Music.pdb
